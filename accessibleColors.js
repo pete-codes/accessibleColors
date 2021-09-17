@@ -1,4 +1,4 @@
-<script>
+
 
 function redSolution() {
     document.getElementById("red").style.backgroundColor="#a70505";
@@ -65,4 +65,3 @@ function cancel(){
 
 
 
-</script>
